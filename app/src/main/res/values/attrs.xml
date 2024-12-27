@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomContainer">
+        <attr name="yp_animationDurationAlpha" format="integer" />
+        <attr name="yp_animationDurationTranslation" format="integer" />
+    </declare-styleable>
+</resources>

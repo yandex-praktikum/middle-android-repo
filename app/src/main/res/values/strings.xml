@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">android practicum custom view</string>
+    <string name="go_to_second_screen">Перейти на второй экран</string>
+    <string name="go_to_third_screen">Перейти на третий экран</string>
+    <string name="first_element">Первый элемент</string>
+    <string name="second_element">Второй элемент</string>
 </resources>
